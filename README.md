@@ -1,1 +1,1 @@
-Conflict test line from A
+Conflict test line from B
